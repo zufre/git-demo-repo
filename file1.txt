@@ -1,1 +1,4 @@
 some content
+more contenet >> file1.txt
+cat file.2
+echo more contenet
